@@ -10,5 +10,6 @@ class Message {
     var sender : String = ""
     var messageBody : String = ""
     
-    
+    var test : String = ""
+    var test2: String = ""
 }
